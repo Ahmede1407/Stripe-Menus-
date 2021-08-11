@@ -157,6 +157,10 @@ Stripe Styles
   justify-content: space-between;
   align-items: center;
 }
+.nav-logo {
+  justify-self: center;
+  height: 40px;
+}
 .btn {
   font-size: 1rem;
   padding: 0.25rem 0.75rem;

@@ -7,10 +7,9 @@ import SubMenu from "./SubMenu";
 const App = () => {
   return (
     <>
-      <h3>App component</h3>
       <Navbar></Navbar>
-      <Hero></Hero>
       <Sidebar></Sidebar>
+      <Hero></Hero>
       <SubMenu></SubMenu>
     </>
   );
